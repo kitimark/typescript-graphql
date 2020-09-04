@@ -9,7 +9,7 @@
     "graphql-yoga": "^1.18.3",
     "prettier": "^1.19.1",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.5"
+    "type-graphql": "^0.17.6"
   },
   "devDependencies": {
     "@types/node": "^12.12.17",
